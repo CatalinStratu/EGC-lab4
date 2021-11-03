@@ -1,0 +1,14 @@
+G:\EGC\Tema4\Tema(lab4_3)\Proiect_3\bin\Debug\Proiect.exe.config
+G:\EGC\Tema4\Tema(lab4_3)\Proiect_3\bin\Debug\Proiect.exe
+G:\EGC\Tema4\Tema(lab4_3)\Proiect_3\bin\Debug\Proiect.pdb
+G:\EGC\Tema4\Tema(lab4_3)\Proiect_3\bin\Debug\OpenTK.dll
+G:\EGC\Tema4\Tema(lab4_3)\Proiect_3\bin\Debug\OpenTK.GLControl.dll
+G:\EGC\Tema4\Tema(lab4_3)\Proiect_3\bin\Debug\OpenTK.pdb
+G:\EGC\Tema4\Tema(lab4_3)\Proiect_3\bin\Debug\OpenTK.xml
+G:\EGC\Tema4\Tema(lab4_3)\Proiect_3\bin\Debug\OpenTK.GLControl.pdb
+G:\EGC\Tema4\Tema(lab4_3)\Proiect_3\bin\Debug\OpenTK.GLControl.xml
+G:\EGC\Tema4\Tema(lab4_3)\Proiect_3\obj\Debug\Proiect_3.csprojAssemblyReference.cache
+G:\EGC\Tema4\Tema(lab4_3)\Proiect_3\obj\Debug\Proiect_3.csproj.CoreCompileInputs.cache
+G:\EGC\Tema4\Tema(lab4_3)\Proiect_3\obj\Debug\Proiect_3.csproj.CopyComplete
+G:\EGC\Tema4\Tema(lab4_3)\Proiect_3\obj\Debug\Proiect.exe
+G:\EGC\Tema4\Tema(lab4_3)\Proiect_3\obj\Debug\Proiect.pdb
